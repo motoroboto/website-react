@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/website-react/static/css/main.f542e0fb.css",
-    "main.js": "/website-react/static/js/main.6087b5e5.js",
+    "main.css": "/website-react/static/css/main.f4dead30.css",
+    "main.js": "/website-react/static/js/main.c9570e5d.js",
     "static/js/453.65812765.chunk.js": "/website-react/static/js/453.65812765.chunk.js",
     "static/media/housecat.png": "/website-react/static/media/housecat.ae400b1ad9634f7b88e6.png",
     "static/media/backdrop.jpg": "/website-react/static/media/backdrop.40229ce70a97d4bc54ac.jpg",
     "static/media/bg-masthead.jpg": "/website-react/static/media/bg-masthead.cf12583b25a450f64b55.jpg",
+    "static/media/color.png": "/website-react/static/media/color.8f7525c50264bbdac3f7.png",
     "static/media/bw.png": "/website-react/static/media/bw.dd84b337fd7f08804d91.png",
     "static/media/bg-signup.jpg": "/website-react/static/media/bg-signup.64bcf187d3fed4bf78b1.jpg",
     "static/media/summer.jpeg": "/website-react/static/media/summer.8b84441cc271ea0200dc.jpeg",
     "index.html": "/website-react/index.html",
-    "main.f542e0fb.css.map": "/website-react/static/css/main.f542e0fb.css.map",
-    "main.6087b5e5.js.map": "/website-react/static/js/main.6087b5e5.js.map",
+    "main.f4dead30.css.map": "/website-react/static/css/main.f4dead30.css.map",
+    "main.c9570e5d.js.map": "/website-react/static/js/main.c9570e5d.js.map",
     "453.65812765.chunk.js.map": "/website-react/static/js/453.65812765.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f542e0fb.css",
-    "static/js/main.6087b5e5.js"
+    "static/css/main.f4dead30.css",
+    "static/js/main.c9570e5d.js"
   ]
 }
