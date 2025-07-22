@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/website-react/static/css/main.fa61aea3.css",
-    "main.js": "/website-react/static/js/main.3f121dfa.js",
-    "static/js/453.65812765.chunk.js": "/website-react/static/js/453.65812765.chunk.js",
+    "main.css": "/website-react/static/css/main.40c5139c.css",
+    "main.js": "/website-react/static/js/main.cbaf0b9d.js",
     "static/media/housecat.png": "/website-react/static/media/housecat.ae400b1ad9634f7b88e6.png",
+    "static/media/halloween.jpg": "/website-react/static/media/halloween.fe0dcd91d90d66293eba.jpg",
     "static/media/backdrop.jpg": "/website-react/static/media/backdrop.40229ce70a97d4bc54ac.jpg",
+    "static/media/tracks.jpg": "/website-react/static/media/tracks.1d6b59c78dc9b0be82a7.jpg",
     "static/media/bg-masthead.jpg": "/website-react/static/media/bg-masthead.cf12583b25a450f64b55.jpg",
     "static/media/color.png": "/website-react/static/media/color.8f7525c50264bbdac3f7.png",
+    "static/media/cover.jpg": "/website-react/static/media/cover.197c8fad94e3c8008bf7.jpg",
     "static/media/bg-signup.jpg": "/website-react/static/media/bg-signup.64bcf187d3fed4bf78b1.jpg",
     "static/media/summer.jpeg": "/website-react/static/media/summer.8b84441cc271ea0200dc.jpeg",
     "index.html": "/website-react/index.html",
-    "main.fa61aea3.css.map": "/website-react/static/css/main.fa61aea3.css.map",
-    "main.3f121dfa.js.map": "/website-react/static/js/main.3f121dfa.js.map",
-    "453.65812765.chunk.js.map": "/website-react/static/js/453.65812765.chunk.js.map"
+    "main.40c5139c.css.map": "/website-react/static/css/main.40c5139c.css.map",
+    "main.cbaf0b9d.js.map": "/website-react/static/js/main.cbaf0b9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa61aea3.css",
-    "static/js/main.3f121dfa.js"
+    "static/css/main.40c5139c.css",
+    "static/js/main.cbaf0b9d.js"
   ]
 }
