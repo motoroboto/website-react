@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/motoroboto.co/static/css/main.d2f5c807.css",
-    "main.js": "/motoroboto.co/static/js/main.aaf0a336.js",
-    "static/media/mashups.png": "/motoroboto.co/static/media/mashups.fdd0f9c579f0a9df5dc0.png",
-    "static/media/housecat.png": "/motoroboto.co/static/media/housecat.ae400b1ad9634f7b88e6.png",
-    "static/media/halloween.jpg": "/motoroboto.co/static/media/halloween.fe0dcd91d90d66293eba.jpg",
-    "static/media/backdrop.jpg": "/motoroboto.co/static/media/backdrop.40229ce70a97d4bc54ac.jpg",
-    "static/media/tracks.jpg": "/motoroboto.co/static/media/tracks.c9fb00b6d60833eb0057.jpg",
-    "static/media/cover.jpg": "/motoroboto.co/static/media/cover.a86f4f6ea6e9e65ad804.jpg",
-    "static/media/christmas.jpg": "/motoroboto.co/static/media/christmas.1b3eab04ca6be34afeb4.jpg",
-    "static/media/bg-masthead.jpg": "/motoroboto.co/static/media/bg-masthead.cf12583b25a450f64b55.jpg",
-    "static/media/color.png": "/motoroboto.co/static/media/color.8f7525c50264bbdac3f7.png",
-    "static/media/bg-signup.jpg": "/motoroboto.co/static/media/bg-signup.64bcf187d3fed4bf78b1.jpg",
-    "static/media/summer.jpeg": "/motoroboto.co/static/media/summer.8b84441cc271ea0200dc.jpeg",
-    "index.html": "/motoroboto.co/index.html",
-    "main.d2f5c807.css.map": "/motoroboto.co/static/css/main.d2f5c807.css.map",
-    "main.aaf0a336.js.map": "/motoroboto.co/static/js/main.aaf0a336.js.map"
+    "main.css": "/website-react/static/css/main.db63d18a.css",
+    "main.js": "/website-react/static/js/main.7468f544.js",
+    "static/media/mashups.png": "/website-react/static/media/mashups.fdd0f9c579f0a9df5dc0.png",
+    "static/media/housecat.png": "/website-react/static/media/housecat.ae400b1ad9634f7b88e6.png",
+    "static/media/halloween.jpg": "/website-react/static/media/halloween.fe0dcd91d90d66293eba.jpg",
+    "static/media/backdrop.jpg": "/website-react/static/media/backdrop.40229ce70a97d4bc54ac.jpg",
+    "static/media/tracks.jpg": "/website-react/static/media/tracks.c9fb00b6d60833eb0057.jpg",
+    "static/media/cover.jpg": "/website-react/static/media/cover.a86f4f6ea6e9e65ad804.jpg",
+    "static/media/christmas.jpg": "/website-react/static/media/christmas.1b3eab04ca6be34afeb4.jpg",
+    "static/media/bg-masthead.jpg": "/website-react/static/media/bg-masthead.cf12583b25a450f64b55.jpg",
+    "static/media/color.png": "/website-react/static/media/color.8f7525c50264bbdac3f7.png",
+    "static/media/bg-signup.jpg": "/website-react/static/media/bg-signup.64bcf187d3fed4bf78b1.jpg",
+    "static/media/summer.jpeg": "/website-react/static/media/summer.8b84441cc271ea0200dc.jpeg",
+    "index.html": "/website-react/index.html",
+    "main.db63d18a.css.map": "/website-react/static/css/main.db63d18a.css.map",
+    "main.7468f544.js.map": "/website-react/static/js/main.7468f544.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2f5c807.css",
-    "static/js/main.aaf0a336.js"
+    "static/css/main.db63d18a.css",
+    "static/js/main.7468f544.js"
   ]
 }
