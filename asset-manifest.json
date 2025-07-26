@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/website-react/static/css/main.40c5139c.css",
-    "main.js": "/website-react/static/js/main.b03b6445.js",
+    "main.css": "/website-react/static/css/main.4e40d117.css",
+    "main.js": "/website-react/static/js/main.f04e15d9.js",
+    "static/media/mashups.png": "/website-react/static/media/mashups.fdd0f9c579f0a9df5dc0.png",
     "static/media/housecat.png": "/website-react/static/media/housecat.ae400b1ad9634f7b88e6.png",
     "static/media/halloween.jpg": "/website-react/static/media/halloween.fe0dcd91d90d66293eba.jpg",
     "static/media/backdrop.jpg": "/website-react/static/media/backdrop.40229ce70a97d4bc54ac.jpg",
-    "static/media/tracks.jpg": "/website-react/static/media/tracks.1d6b59c78dc9b0be82a7.jpg",
+    "static/media/tracks.jpg": "/website-react/static/media/tracks.c9fb00b6d60833eb0057.jpg",
+    "static/media/cover.jpg": "/website-react/static/media/cover.a86f4f6ea6e9e65ad804.jpg",
+    "static/media/christmas.jpg": "/website-react/static/media/christmas.1b3eab04ca6be34afeb4.jpg",
     "static/media/bg-masthead.jpg": "/website-react/static/media/bg-masthead.cf12583b25a450f64b55.jpg",
     "static/media/color.png": "/website-react/static/media/color.8f7525c50264bbdac3f7.png",
-    "static/media/cover.jpg": "/website-react/static/media/cover.197c8fad94e3c8008bf7.jpg",
     "static/media/bg-signup.jpg": "/website-react/static/media/bg-signup.64bcf187d3fed4bf78b1.jpg",
     "static/media/summer.jpeg": "/website-react/static/media/summer.8b84441cc271ea0200dc.jpeg",
     "index.html": "/website-react/index.html",
-    "main.40c5139c.css.map": "/website-react/static/css/main.40c5139c.css.map",
-    "main.b03b6445.js.map": "/website-react/static/js/main.b03b6445.js.map"
+    "main.4e40d117.css.map": "/website-react/static/css/main.4e40d117.css.map",
+    "main.f04e15d9.js.map": "/website-react/static/js/main.f04e15d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.40c5139c.css",
-    "static/js/main.b03b6445.js"
+    "static/css/main.4e40d117.css",
+    "static/js/main.f04e15d9.js"
   ]
 }
